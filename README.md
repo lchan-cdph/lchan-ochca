@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lchan-ochca
 - 👀 I’m interested in organizational behavior and health psychology research
-- 🌱 I’m currently learning how to create smarter, more responsible, scalable AI and enterprise data management
+- 🌱 I’m currently learning how to create smarter, more responsible, scalable AI and enterprise data management solutions
 - 💞️ I’m looking to collaborate on general database integration and related Git workflows
 
 
